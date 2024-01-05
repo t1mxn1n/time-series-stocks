@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+yfinance
+matplotlib
+python-dotenv
+requests
+pmdarima
+keras
+tensorflow
+prophet
+
